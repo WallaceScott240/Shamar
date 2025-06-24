@@ -43,7 +43,7 @@ A Python-based GUI application that helps monitor file integrity by computing an
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/WallaceScott240/Shamer.git
-cd Shamer
+git clone https://github.com/WallaceScott240/Shamar.git
+cd Shamar
 pip install -r requirements.txt
 python app.py
